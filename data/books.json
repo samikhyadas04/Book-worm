@@ -1,0 +1,12 @@
+[
+  { "id": "1", "title": "The Hobbit", "author": "J.R.R. Tolkien", "genres": ["fantasy", "adventure"], "rating": 4.8, "description": "A hobbit goes on an unexpected journey." },
+  { "id": "2", "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "genres": ["fantasy", "young-adult"], "rating": 4.7, "description": "A young boy discovers he is a wizard." },
+  { "id": "3", "title": "Dune", "author": "Frank Herbert", "genres": ["sci-fi", "adventure"], "rating": 4.6, "description": "A desert planet holds the universe's most valuable resource." },
+  { "id": "4", "title": "1984", "author": "George Orwell", "genres": ["dystopian", "sci-fi"], "rating": 4.7, "description": "A totalitarian future society controlled by Big Brother." },
+  { "id": "5", "title": "The Name of the Wind", "author": "Patrick Rothfuss", "genres": ["fantasy", "adventure"], "rating": 4.5, "description": "The legend of Kvothe, a notorious wizard." },
+  { "id": "6", "title": "Brave New World", "author": "Aldous Huxley", "genres": ["dystopian", "sci-fi"], "rating": 4.3, "description": "A futuristic society built on pleasure and control." },
+  { "id": "7", "title": "The Hunger Games", "author": "Suzanne Collins", "genres": ["dystopian", "young-adult", "adventure"], "rating": 4.4, "description": "Teens fight to the death in a televised spectacle." },
+  { "id": "8", "title": "Ender's Game", "author": "Orson Scott Card", "genres": ["sci-fi", "young-adult"], "rating": 4.5, "description": "A child prodigy trains to fight an alien invasion." },
+  { "id": "9", "title": "The Fellowship of the Ring", "author": "J.R.R. Tolkien", "genres": ["fantasy", "adventure"], "rating": 4.9, "description": "A fellowship forms to destroy a powerful ring." },
+  { "id": "10", "title": "Fahrenheit 451", "author": "Ray Bradbury", "genres": ["dystopian", "sci-fi"], "rating": 4.2, "description": "A fireman in a future where books are burned." }
+]
