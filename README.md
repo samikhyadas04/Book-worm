@@ -39,38 +39,6 @@ book-recommender/
 └── README.md
 ```
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/book-recommender.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd book-recommender
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the server:
-
-```bash
-npm start
-```
-
-or
-
-```bash
-node server.js
-```
-
 ## 🌐 API Endpoints
 
 ### Get All Books
